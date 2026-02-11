@@ -1,6 +1,6 @@
 # Portfolio
 Muthupriya Data Analytics Portfolio
-# Muthupriya Data Analytics Portfolio
+
 
 Hi, I’m **Muthupriya S** — an aspiring **Data Analyst**.  
 I create dashboards, analyze datasets, and provide insights to help businesses make **data-driven decisions**.
